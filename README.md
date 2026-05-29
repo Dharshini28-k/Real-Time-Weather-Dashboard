@@ -29,12 +29,6 @@ This project helps developers understand:
 - Parsing complex JSON responses
 - Dynamic DOM manipulation and updates
 
-## Project Structure
-weather-dashboard/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
 
 ## How It Works
 1. The user enters a city name in the search field.
